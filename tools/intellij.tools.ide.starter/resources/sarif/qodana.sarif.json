@@ -1,34 +1,3 @@
-{
-  "version": "2.1.0",
-  "runs": [
-    {
-      "tool": {
-        "driver": {
-          "name": "intellij.ide.starter",
-          "fullName": "Intellij ide starter framework",
-          "version": "",
-          "taxa": [],
-          "language": "en-US",
-          "contents": [
-            "localizedData",
-            "nonLocalizedData"
-          ],
-          "isComprehensive": false
-        }
-      },
-      "invocations": [],
-      "language": "en-US",
-      "versionControlProvenance": [],
-      "results": [],
-      "automationDetails": {
-        "id": "",
-        "guid": ""
-      },
-      "newlineSequences": [
-        "\r\n",
-        "\n"
-      ],
-      "properties": {}
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b453dc73fdbd87ec5a642da7bf66139da0538ecd9f70d6a866bbe9570985487
+size 691
